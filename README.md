@@ -1,2 +1,4 @@
-# eos_dawn_of_force
-eos_dawn_of_force
+# EOS — Dawn of the Force ⚡
+
+```bash
+python eos_dawn_of_force.py
